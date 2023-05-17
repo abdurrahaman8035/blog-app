@@ -3,7 +3,7 @@
 {% block content %}
 {% for post in blog_post_list %}
 <div class="post_entry">
-    <a href="{% url 'post_detail' post.pk %}">{{ post.title }}</a>
+    <a href="{% url 'post_detail' post.id %}">{{ post.title }}</a>
     <p>{{ post.body }}</p>
 </div>
 {% endfor %}
