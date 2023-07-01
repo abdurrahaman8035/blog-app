@@ -134,7 +134,7 @@ The project has the following folder structure:
 - The `accounts` app handles user authentication
 
 , including registration, login, logout, and profile management.
-- The `mysite` folder contains the project settings and URL configurations.
+- The `config` folder contains the project settings and URL configurations.
 - The `static` folder includes static files such as CSS stylesheets.
 - The `templates` folder contains HTML templates used by the project.
 
