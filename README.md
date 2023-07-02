@@ -22,7 +22,7 @@ This is a basic Django blog project that includes a blog app and an accounts app
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/blog-app.git
+   [git clone https://github.com/abdurrahaman8035/blog-app.git]
    ```
 
 2. Navigate to the project directory:
